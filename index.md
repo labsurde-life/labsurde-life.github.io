@@ -12,5 +12,6 @@ Previously I started my journal at [http://thoughts-everyday.tistory.com/](http:
 I personally like to invest. These are memos for my personal study.
 
 - 2020.02.13, [빅히트 엔터테인먼트 조사](post/20210213-bighit-entertainment.md)
+- 2020.03.03, [2차전지 메가트렌드](post/20210303-2battery.md)
 
 
